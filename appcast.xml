@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <pubDate>Tue, 04 Feb 2026 16:52:00 +0000</pubDate>
             <enclosure
-                url="https://firebasestorage.googleapis.com/v0/b/powering-73ad8.firebasestorage.app/o/Updates%2Fpowering-0.1.0.zip?alt=media&token=f4cabbfc-e25f-48b2-97f1-f6af91c9a460"
+                url="https://firebasestorage.googleapis.com/v0/b/powering-73ad8.firebasestorage.app/o/Updates%2Fpowering-0.1.0.zip?alt=media&amp;token=f4cabbfc-e25f-48b2-97f1-f6af91c9a460"
                 sparkle:edSignature="Fa4QKWH6nD8uSeh/IjU2tyyR+9ItdggEOJgncsHmlKu/AxbnNtxrmRXBayvMh33hLbJbdk/pRsbf/z4akMzgCQ=="
                 length="3359039"
                 type="application/zip"
