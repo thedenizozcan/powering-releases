@@ -4,14 +4,14 @@
         <title>Powering Updates</title>
         <link>https://github.com/thedenizozcan/powering-releases</link>
         <item>
-            <title>Version 0.1.0</title>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
-            <pubDate>Tue, 04 Feb 2026 16:52:00 +0000</pubDate>
+            <title>Version 1.1.0</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <pubDate>Sat, 07 Feb 2026 23:46:00 +0000</pubDate>
             <enclosure
-                url="https://firebasestorage.googleapis.com/v0/b/powering-73ad8.firebasestorage.app/o/Updates%2Fpowering-0.1.0.zip?alt=media&amp;token=f4cabbfc-e25f-48b2-97f1-f6af91c9a460"
-                sparkle:edSignature="Fa4QKWH6nD8uSeh/IjU2tyyR+9ItdggEOJgncsHmlKu/AxbnNtxrmRXBayvMh33hLbJbdk/pRsbf/z4akMzgCQ=="
-                length="3359039"
+                url="https://firebasestorage.googleapis.com/v0/b/powering-73ad8.firebasestorage.app/o/Updates%2Fpowering-1.1.0.zip?alt=media&amp;token=a850d7be-effc-4daf-82f7-1b95b8cca416"
+                sparkle:edSignature="NuWvZ/gvh9QiXSUaGb3I3QD4R8QDa4KYG4LncDuaxXnUGLZ7hrwrU9R2/gHl16I1ux0R2RzTDDtEBrvBw+9YAQ=="
+                length="3852212"
                 type="application/zip"
             />
         </item>
